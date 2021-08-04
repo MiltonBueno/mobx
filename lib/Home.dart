@@ -119,7 +119,7 @@ class _HomeState extends State<Home> {
                         "Logar",
                         style: TextStyle(
                             color: Colors.black,
-                            fontSize: 30
+                            fontSize: 25
                         ),
                       )
                   );
