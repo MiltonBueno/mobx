@@ -1,4 +1,4 @@
-# mobx_aula
+# mobx
 
 A new Flutter project.
 
